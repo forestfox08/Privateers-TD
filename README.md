@@ -11,12 +11,12 @@ Titel: Privateers TD
 Elevator pitch, maximaal twee zinnen:
 Beschrijf kort wat jouw game is en waarom het leuk is om te spelen.
 
-Piraten Tower Defense game.
+Napoleonic-Era Tower Defense game.
 
 ## 2. Wat maakt jouw tower defense uniek?
 Beschrijf in één of twee zinnen wat jouw game onderscheidt van een standaard tower defense. Denk aan iets dat de speler op een nieuwe manier laat nadenken of spelen.
 
-Fortifacations.
+Fortifications.
 
 ## 3. Schets van je level en UI
 Maak een schets op papier of digitaal en voeg deze afbeelding toe aan je repository. Voeg in deze sectie de afbeelding in.
@@ -42,7 +42,7 @@ Toren 5 Builder, Geen Damage, Elke Ronde +2 Base HP (Base HP (200HP) Max. 3 Buil
 
 ## 5. Vijanden
 
-Vijand 1 Pirate, Fast, 50 HP, niks speciaal, doet 5 damage aan je base
+Vijand 1 Enemy Troop, Medium-Fast, 50 HP, niks speciaal, doet 5 damage aan je base
 
 Vijand 2 Surgeon, Medium-Slow, 50 HP, Kan healen (0.5 HP per second), 10 damage aan je base
 
