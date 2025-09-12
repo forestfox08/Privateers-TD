@@ -1,46 +1,46 @@
 fileFormatVersion: 2
-guid: 8389a5d80c88e7c46978d279c3bc23da
+guid: b184440a9eb3d77459b93f3a2900c997
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6713423980508406130
-    second: PioneersLogo_0
+      213: -4349237937938122486
+    second: PrivateersLogo_0
   - first:
-      213: 5976130275510177905
-    second: PioneersLogo_1
+      213: 6830370678497297195
+    second: PrivateersLogo_1
   - first:
-      213: 3912076433232551201
-    second: PioneersLogo_2
+      213: -2966390288309297994
+    second: PrivateersLogo_2
   - first:
-      213: -963223952586636497
-    second: PioneersLogo_3
+      213: 4809500779160638975
+    second: PrivateersLogo_3
   - first:
-      213: -8705412513339376066
-    second: PioneersLogo_4
+      213: 3003296801896910462
+    second: PrivateersLogo_4
   - first:
-      213: 6425845919711123547
-    second: PioneersLogo_5
+      213: -4827362196953357802
+    second: PrivateersLogo_5
   - first:
-      213: 2605217576363876588
-    second: PioneersLogo_6
+      213: -6156369134782765863
+    second: PrivateersLogo_6
   - first:
-      213: -1649884845157386681
-    second: PioneersLogo_7
+      213: -8077623428638619362
+    second: PrivateersLogo_7
   - first:
-      213: -3067501819212959002
-    second: PioneersLogo_8
+      213: 3210448002754247972
+    second: PrivateersLogo_8
   - first:
-      213: 3619872959453788576
-    second: PioneersLogo_9
+      213: 4312562498135770224
+    second: PrivateersLogo_9
   - first:
-      213: -5318767180807910022
-    second: PioneersLogo_10
+      213: 209196679866491444
+    second: PrivateersLogo_10
   - first:
-      213: -708414310506514761
-    second: PioneersLogo_11
+      213: -7629162052139073316
+    second: PrivateersLogo_11
   - first:
-      213: -2280233716181261306
-    second: PioneersLogo_12
+      213: 5413326702756474322
+    second: PrivateersLogo_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -82,7 +82,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -136,7 +136,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PioneersLogo_0
+      name: PrivateersLogo_0
       rect:
         serializedVersion: 2
         x: 13
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 271eac08a8fda2d50800000000000000
-      internalID: 6713423980508406130
+      spriteID: a09bb81832764a3c0800000000000000
+      internalID: -4349237937938122486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_1
+      name: PrivateersLogo_1
       rect:
         serializedVersion: 2
         x: 105
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 170dd3b92da7fe250800000000000000
-      internalID: 5976130275510177905
+      spriteID: b23431871f95ace50800000000000000
+      internalID: 6830370678497297195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_2
+      name: PrivateersLogo_2
       rect:
         serializedVersion: 2
         x: 384
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12dd009f9cc7a4630800000000000000
-      internalID: 3912076433232551201
+      spriteID: 6bcd728dfb345d6d0800000000000000
+      internalID: -2966390288309297994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_3
+      name: PrivateersLogo_3
       rect:
         serializedVersion: 2
         x: 502
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f230de22be0f1a2f0800000000000000
-      internalID: -963223952586636497
+      spriteID: ff595d01a77ceb240800000000000000
+      internalID: 4809500779160638975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_4
+      name: PrivateersLogo_4
       rect:
         serializedVersion: 2
         x: 702
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3e7a2f3179203780800000000000000
-      internalID: -8705412513339376066
+      spriteID: e7ec128778adda920800000000000000
+      internalID: 3003296801896910462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_5
+      name: PrivateersLogo_5
       rect:
         serializedVersion: 2
         x: 791
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5856c181d03d2950800000000000000
-      internalID: 6425845919711123547
+      spriteID: 612227888a3c10db0800000000000000
+      internalID: -4827362196953357802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_6
+      name: PrivateersLogo_6
       rect:
         serializedVersion: 2
         x: 914
@@ -283,17 +283,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce0e5c92597972420800000000000000
-      internalID: 2605217576363876588
+      spriteID: 9d42817c3ee209aa0800000000000000
+      internalID: -6156369134782765863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_7
+      name: PrivateersLogo_7
       rect:
         serializedVersion: 2
-        x: 123
+        x: 203
+        y: 156
+        width: 594
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194f9ae94486ef80800000000000000
+      internalID: -8077623428638619362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivateersLogo_8
+      rect:
+        serializedVersion: 2
+        x: 204
         y: 164
         width: 54
         height: 26
@@ -305,39 +327,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 746f71c897e6a19e0800000000000000
-      internalID: -1649884845157386681
+      spriteID: 42d7706e27dcd8c20800000000000000
+      internalID: 3210448002754247972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_8
+      name: PrivateersLogo_9
       rect:
         serializedVersion: 2
-        x: 123
-        y: 156
-        width: 754
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e272f5095b0e65d0800000000000000
-      internalID: -3067501819212959002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PioneersLogo_9
-      rect:
-        serializedVersion: 2
-        x: 196
+        x: 276
         y: 164
         width: 21
         height: 23
@@ -349,17 +349,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a9f848174f5c3230800000000000000
-      internalID: 3619872959453788576
+      spriteID: 074cd0d3ebc49db30800000000000000
+      internalID: 4312562498135770224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_10
+      name: PrivateersLogo_10
       rect:
         serializedVersion: 2
-        x: 355
+        x: 436
         y: 164
         width: 38
         height: 27
@@ -371,17 +371,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7d40f8dd61ff26b0800000000000000
-      internalID: -5318767180807910022
+      spriteID: 43222af954737e200800000000000000
+      internalID: 209196679866491444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_11
+      name: PrivateersLogo_11
       rect:
         serializedVersion: 2
-        x: 416
+        x: 496
         y: 164
         width: 39
         height: 27
@@ -393,17 +393,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b6b47c10f43b26f0800000000000000
-      internalID: -708414310506514761
+      spriteID: cd04c5cd885cf1690800000000000000
+      internalID: -7629162052139073316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PioneersLogo_12
+      name: PrivateersLogo_12
       rect:
         serializedVersion: 2
-        x: 848
+        x: 767
         y: 164
         width: 31
         height: 18
@@ -415,8 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 604a52e248bfa50e0800000000000000
-      internalID: -2280233716181261306
+      spriteID: 2ddafe284ffff1b40800000000000000
+      internalID: 5413326702756474322
       vertices: []
       indices: 
       edges: []
@@ -425,7 +425,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PrivateersLogo_0: -4349237937938122486
+      PrivateersLogo_1: 6830370678497297195
+      PrivateersLogo_10: 209196679866491444
+      PrivateersLogo_11: -7629162052139073316
+      PrivateersLogo_12: 5413326702756474322
+      PrivateersLogo_2: -2966390288309297994
+      PrivateersLogo_3: 4809500779160638975
+      PrivateersLogo_4: 3003296801896910462
+      PrivateersLogo_5: -4827362196953357802
+      PrivateersLogo_6: -6156369134782765863
+      PrivateersLogo_7: -8077623428638619362
+      PrivateersLogo_8: 3210448002754247972
+      PrivateersLogo_9: 4312562498135770224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
