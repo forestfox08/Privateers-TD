@@ -3,11 +3,17 @@ guid: 19283ce1c64eda543b66c0ccf4b49c16
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5887087179177790335
-    second: spritesheetMusket_0
+      213: -1260763253951054262
+    second: SpriteSheetMusket_0
   - first:
-      213: -3097910120978407288
-    second: spritesheetMusket_1
+      213: 7023138178195712345
+    second: SpriteSheetMusket_1
+  - first:
+      213: -996341804222627916
+    second: SpriteSheetMusket_2
+  - first:
+      213: -6962072116703409324
+    second: SpriteSheetMusket_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spritesheetMusket_0
+      name: SpriteSheetMusket_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 323
-        width: 130
-        height: 153
+        x: 1
+        y: 871
+        width: 153
+        height: 129
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 184f953d66ddc4ea0800000000000000
-      internalID: -5887087179177790335
+      spriteID: a4eb166108ed08ee0800000000000000
+      internalID: -1260763253951054262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spritesheetMusket_1
+      name: SpriteSheetMusket_1
       rect:
         serializedVersion: 2
-        x: 223
-        y: 322
-        width: 281
-        height: 154
+        x: 1
+        y: 499
+        width: 154
+        height: 281
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +146,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 880aefc88230205d0800000000000000
-      internalID: -3097910120978407288
+      spriteID: 959e6df76f2377160800000000000000
+      internalID: 7023138178195712345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMusket_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 153
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf307c68684c22f0800000000000000
+      internalID: -996341804222627916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMusket_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bcd37eb40c16f90800000000000000
+      internalID: -6962072116703409324
       vertices: []
       indices: 
       edges: []
