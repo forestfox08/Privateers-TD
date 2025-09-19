@@ -2,13 +2,17 @@ using UnityEngine;
 
 public class EnemySpawning : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    [Header("References")]
+    [SerializeField] private GameObject[] enemyPrefabs;
+
+    [Header("Attributes")]
+    [SerializeField] private int enemybaseAmount = 5f;
+    [SerializeField] private float enemiesPerSecond = 0.5f;
+    public float timebetweenWaves = 20f;
+
+
+
     void Update()
     {
         
