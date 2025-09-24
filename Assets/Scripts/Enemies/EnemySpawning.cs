@@ -7,7 +7,7 @@ public class EnemySpawning : MonoBehaviour
     [SerializeField] private GameObject[] enemyPrefabs;
 
     [Header("Attributes")]
-    [SerializeField] private int enemybaseAmount = 5f;
+    [SerializeField] private int enemybaseAmount = 5;
     [SerializeField] private float enemiesPerSecond = 0.5f;
     public float timebetweenWaves = 20f;
 
