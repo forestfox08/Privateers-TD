@@ -3,7 +3,7 @@ using static UnityEngine.GraphicsBuffer;
 
 public class EnemyMovement : MonoBehaviour
 {
-    [Header("References")]
+    [Header("Rigidbody")]
     [SerializeField] private Rigidbody2D rb;
 
     [Header("Atrributes")]
