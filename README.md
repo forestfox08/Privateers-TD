@@ -5,6 +5,8 @@ Klas: SD2A
 
 Datum: 09:50 08/09/2025
 
+Trello Link: https://trello.com/b/aqUAhEAC/tower-defense-project-p5
+
 ## 1. Titel en elevator pitch
 Titel: Privateers TD
 
