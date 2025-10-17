@@ -22,10 +22,5 @@ public class EnemySpawning : MonoBehaviour
     {
         enemiesLeftToSpawn = enemybaseAmount;
     }
-    /*
-    private int EnemiesPerWave()
-    {
-        return 
-    }
-    */
+    
 }
