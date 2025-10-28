@@ -37,11 +37,6 @@ Toren 2 Blunderbuss, Medium-Close Range, 20 damage (10 sec cooldown) , schiet Pe
 
 Toren 3 Cutlass, Close Range, 10 Damage (1 sec cooldown), schiet geen pellets maar swingt over een close range.
 
-Toren 4 Canon, Long Range, 500 Damage (1 Min cooldown), Splash damage over een area, lange reload.
-
-Toren 5 Builder, Geen Damage, Elke Ronde +2 Base HP (Base HP (200HP) Max. 3 Builders
-
-
 ## 5. Vijanden
 
 Vijand 1 Enemy Troop, Medium-Fast, 50 HP, niks speciaal, doet 5 damage aan je base
@@ -49,10 +44,6 @@ Vijand 1 Enemy Troop, Medium-Fast, 50 HP, niks speciaal, doet 5 damage aan je ba
 Vijand 2 Surgeon, Medium-Slow, 50 HP, Kan healen (0.5 HP per second), 10 damage aan je base
 
 Vijand 3 Rolling Barrel , Medium-Fast, 250HP, 25 damage aan je base
-
-Vijand 4 Sapper, Medium, 150HP, 50 Damage aan je base
-
-Vijand 5 Explosive Cariage, Slow, 700HP, 200 Damage aan base
 
 ## 6. Gameplay loop
 Beschrijf in drie tot vijf stappen wat de speler steeds doet.
